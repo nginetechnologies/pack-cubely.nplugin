@@ -1823,11 +1823,6 @@
             "d2b90435-ba48-5a91-8688-74cf6aa341e4"
         ]
     },
-    "f3b55fd9-266b-2f10-5516-fb1efeaf51d6": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Cubely/SC_Cubely.scene.nasset"
-    },
     "f5d891bc-ee13-b229-82b0-c611190704db": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1886,5 +1881,5 @@
             "d2b90435-ba48-5a91-8688-74cf6aa341e4"
         ]
     },
-    "guid": "93b80366-ee69-d4f7-528a-dfb439826c5a"
+    "guid": "34d43f82-40d8-e63a-d4d9-a6d49a303af2"
 }
