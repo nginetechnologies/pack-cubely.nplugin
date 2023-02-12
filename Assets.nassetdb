@@ -129,10 +129,6 @@
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
     },
-    "0982dbce-0aa0-bb72-bd04-08b615ce61ad": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Dirt_Snow_Thumb.tex.nasset"
-    },
     "0aa1ff30-de7d-6b19-624d-e17643551949": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Fence Wood.mesh.nasset/Thumbnails/Fence Wood.mesh.nasset.tex.nasset"
@@ -307,25 +303,9 @@
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
     },
-    "176a0d9b-073b-31c0-cdf8-43abab478dc9": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Stone_Iron_02_Thumb.tex.nasset"
-    },
-    "19535a20-67f0-1b47-8dd0-161df830482e": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Brick_Red_Thumb.tex.nasset"
-    },
     "1aacdde4-d5a6-4388-c46c-2b97d67de1e5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/White Trunk Top.mesh.nasset/Thumbnails/White Trunk Top.mesh.nasset.tex.nasset"
-    },
-    "1d2de34d-086f-0e6f-848a-b5192b1bcc99": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Lava_Thumb.tex.nasset"
-    },
-    "1e72de75-97c9-17cb-530d-17882bf4776f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Brick_Grey_Thumb.tex.nasset"
     },
     "1f95edbe-a7b5-dd05-1cb9-805fcce02ebd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -369,14 +349,6 @@
     "229e23fd-3fe5-7719-6fe7-18e76dd04487": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Voxel D.mtli.nasset.tex.nasset"
-    },
-    "235c6dd2-d142-95cf-765b-02ab1f0e0d9b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Mushroom_Tan_Thumb.tex.nasset"
-    },
-    "2415d04d-b395-9c28-c477-aa53061d6b30": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Stone_Diamond_02_Thumb.tex.nasset"
     },
     "257f6a7d-542d-c9f0-de3b-55c17a14d97c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -428,10 +400,6 @@
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
     },
-    "27c87209-c6bb-eccb-9309-c6c761c2dd54": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Cotton_Blue_Thumb.tex.nasset"
-    },
     "285266e4-5639-1725-e0d8-4c888d8c1ec8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Mushroom Tan.mesh.nasset/Thumbnails/Mushroom Tan.mesh.nasset.tex.nasset"
@@ -446,10 +414,6 @@
         "dependencies": [
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
-    },
-    "28b99ee0-1081-a63c-4cde-be5d284eadad": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Stone_Thumb.tex.nasset"
     },
     "28f7ba57-be4e-e85e-529f-fac270da5f3f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -497,25 +461,13 @@
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
     },
-    "2a04a7a9-c336-22d2-4920-3e71f1ac9584": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grass_04_Thumb.tex.nasset"
-    },
     "2b67bacc-d8e4-b1fa-f9af-f354435a9495": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Leaves Alpha.mesh.nasset/Thumbnails/Leaves Alpha.mesh.nasset.tex.nasset"
     },
-    "2b69dda5-30d3-9917-5dfa-988d91085b4c": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grass_03_Thumb.tex.nasset"
-    },
     "2b801f3c-e871-1151-4e00-f785750a6517": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Dirt Snow.mesh.nasset/Thumbnails/Dirt Snow.mesh.nasset.tex.nasset"
-    },
-    "2c6e0cfb-fd07-cae1-81d1-aca8b35ae9ae": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Wheat_Stage_03_Thumb.tex.nasset"
     },
     "2cbc8ca6-ee0a-9af8-49fe-453e76dbfcd3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -561,10 +513,6 @@
         "dependencies": [
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
-    },
-    "33a319e3-4246-80fe-25a4-1027b2171a63": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Track_Corner_Thumb.tex.nasset"
     },
     "34c7473c-9273-438e-b007-f96d8b1f7d35": {
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
@@ -623,10 +571,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Mindkraft_EnviroSpecular.tex.nasset"
     },
-    "3b19f125-3876-32dd-2c88-4936cfc488da": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Wheat_Stage_02_Thumb.tex.nasset"
-    },
     "3b796464-cbbf-6070-3a36-460a35046c73": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -654,14 +598,6 @@
     "3e8912b1-4b9f-c18a-3813-a19e4cf2f8e1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Red Stone.mesh.nasset/Thumbnails/Red Stone.mesh.nasset.tex.nasset"
-    },
-    "3f154378-a4e0-a6dd-2bbb-f6c2a98cac0a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Track_Straight_No_Rail_Thumb.tex.nasset"
-    },
-    "3f1f0a98-34a7-3e7a-5d61-f2014cf5e0ad": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Stone_Brown_Iron_01_Thumb.tex.nasset"
     },
     "3f5a2c73-f429-2cde-a77a-51edf777b225": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -717,10 +653,6 @@
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
     },
-    "42e0cf77-78d2-aa62-7b7e-44da941b8ee0": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grass_Brown_Thumb.tex.nasset"
-    },
     "430473ac-0713-f740-94f3-b5b16ec62e90": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -765,18 +697,6 @@
             "533968e2-69c2-7bdd-984c-1f102bbc8d30",
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
-    },
-    "4634daac-b3af-a0b2-f7fb-cc04c9409b52": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Cotton_Green_Thumb.tex.nasset"
-    },
-    "47ae4871-5626-9b11-82b7-7bac340d7725": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Stone_Wall_Thumb.tex.nasset"
-    },
-    "47b83aa7-548e-ce43-2fa5-d6d0f63a4827": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Cotton_Red_Thumb.tex.nasset"
     },
     "47caf321-c729-cbad-2b45-0303c51a423d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -897,10 +817,6 @@
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
     },
-    "4febb38f-8ae0-6ac2-e68a-fd2069a78cbe": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Fence_Wood_Thumb.tex.nasset"
-    },
     "50f1355a-d7be-9e1b-4987-1ec66b03fb2b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -955,10 +871,6 @@
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
     },
-    "55cdf319-2f58-f145-83ef-9978d21def0d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Leaves_Alpha_Thumb.tex.nasset"
-    },
     "56120649-ea62-6fc8-6b89-bbadb1342044": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -988,10 +900,6 @@
     "581f2787-9c55-8e18-2f63-73b3ce4cf4ff": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Wheat Stage 02.mesh.nasset/Thumbnails/Wheat Stage 02.mesh.nasset.tex.nasset"
-    },
-    "59a61128-5d89-7336-c0f9-a13126b7d2e0": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Dirt_Grass_Thumb.tex.nasset"
     },
     "59dd0731-e28c-8fd4-de74-b7632c33513c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1057,10 +965,6 @@
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
     },
-    "5daeb3f9-ec27-a116-3ded-7dcaff311029": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grass_02_Thumb.tex.nasset"
-    },
     "5f360695-d852-e246-ae3b-c2bfaf5b97c3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Snow.mesh.nasset/Thumbnails/Snow.mesh.nasset.tex.nasset"
@@ -1118,10 +1022,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Fence Stone.mesh.nasset/Thumbnails/Fence Stone.mesh.nasset.tex.nasset"
     },
-    "62e0185b-35ea-ed17-bb47-8fb02a8e3efe": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Dirt_Thumb.tex.nasset"
-    },
     "62fc77d7-eb5c-77a8-8f5f-07de1b8a7316": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1145,10 +1045,6 @@
         "dependencies": [
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
-    },
-    "64dd51b2-8664-b218-8e41-3eb26286a918": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Stone_Pillar_Thumb.tex.nasset"
     },
     "66c6dfa8-6868-9aad-9cf4-32accfa85409": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1210,18 +1106,6 @@
     "6a1a6ceb-6c1e-587d-261a-5aa3f4a2a2bf": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Gravel Dirt.mesh.nasset/Thumbnails/Gravel Dirt.mesh.nasset.tex.nasset"
-    },
-    "6b78c8cd-019e-0c5f-5174-ea1206ca565b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grey_Stone_Ruby_02_Thumb.tex.nasset"
-    },
-    "6cda351c-6012-3455-c652-7edea2bb8d38": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Stone_Iron_01_Thumb.tex.nasset"
-    },
-    "6dbed1b0-2334-9e5e-708b-90ea9318f769": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Stone_Dirt_Thumb.tex.nasset"
     },
     "6e9468a2-f4e4-b402-cb42-1c26b18984f5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1305,14 +1189,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Grass 01.mesh.nasset/Thumbnails/Grass 01.mesh.nasset.tex.nasset"
     },
-    "79661dfc-a7f3-bf43-4306-7243a3fda336": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Leaves_Thumb.tex.nasset"
-    },
-    "7c9cadc7-c44d-0c4d-3b54-1adf05a30959": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Red_Sand_Thumb.tex.nasset"
-    },
     "7d659821-599b-b147-ba0f-74cc6f86d871": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Brick Grey.mesh.nasset/Thumbnails/Brick Grey.mesh.nasset.tex.nasset"
@@ -1329,14 +1205,6 @@
             "676574b1-3e63-8b30-0146-e4f126d1a54a",
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
-    },
-    "7f051faf-c9eb-9089-9dba-9c8b16ea155b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Red_Stone_Thumb.tex.nasset"
-    },
-    "7f512c58-ce83-35f2-3262-094a3fa79082": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Fence_Stone_Thumb.tex.nasset"
     },
     "7fef2d50-57c1-6e0d-7707-bcf6e4f06ab7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1407,25 +1275,13 @@
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
     },
-    "85dfa9f7-8655-3601-4a7f-d500faf729f8": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_Thumb.tex.nasset"
-    },
     "865fdd24-576f-47e0-eb03-c0728934dd42": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Track Straight No Rail.mesh.nasset/Thumbnails/Track Straight No Rail.mesh.nasset.tex.nasset"
     },
-    "8743be40-6b70-6ee1-f5f7-a66b0f4aeca3": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grass_Top_Thumb.tex.nasset"
-    },
     "8a34a302-eb54-a732-6640-5807bc68cde2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Wood.mesh.nasset/Thumbnails/Wood.mesh.nasset.tex.nasset"
-    },
-    "8a5d22f5-7bb2-ec86-1a40-8af474aa1721": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Gravel_Dirt_Thumb.tex.nasset"
     },
     "8abee74f-be52-eb70-e756-0f95c525da3b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1466,10 +1322,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Leaves Orange Alpha.mesh.nasset/Thumbnails/Leaves Orange Alpha.mesh.nasset.tex.nasset"
     },
-    "8e4b446f-dff6-2650-28f6-0bb673963558": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Leaves_Orange_Alpha_Thumb.tex.nasset"
-    },
     "8e8cd02c-4ec7-d602-1138-6ff2a85ff415": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Stone.mesh.nasset/Thumbnails/Stone.mesh.nasset.tex.nasset"
@@ -1488,10 +1340,6 @@
     "90c806b4-7da1-7ae4-0bac-bd5b7312b382": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Stone Diamond 02.mesh.nasset/Thumbnails/Stone Diamond 02.mesh.nasset.tex.nasset"
-    },
-    "9124d2d1-d4f1-6fa9-bba4-c36d3d00d8ae": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Table_Thumb.tex.nasset"
     },
     "91fb0309-cd2d-942a-59a9-07665f00ff10": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1518,10 +1366,6 @@
         "dependencies": [
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
-    },
-    "939ac203-a02b-25b9-047e-fbe5c678c8d1": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Wood_Red_Thumb.tex.nasset"
     },
     "93a090e8-c819-5b81-690b-95dfac22aae0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1614,10 +1458,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Stone Iron 01.mesh.nasset/Thumbnails/Stone Iron 01.mesh.nasset.tex.nasset"
     },
-    "9d1b1659-b384-02dd-20e8-6924ac90f8a0": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Wood_Thumb.tex.nasset"
-    },
     "9dcce4ff-eb33-b289-c6b8-08e66906cfd8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1659,10 +1499,6 @@
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
     },
-    "9ea225ed-db23-df41-53e7-ab9493bdca55": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Track_Straight_Thumb.tex.nasset"
-    },
     "9f03b589-7dab-c156-9aa0-fd92a58d46fa": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1679,22 +1515,6 @@
     "a090bda2-c693-b32a-6766-ebb9f8c12304": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Dirt.mesh.nasset/Thumbnails/Dirt.mesh.nasset.tex.nasset"
-    },
-    "a25fb737-ab1f-8455-5d96-5455c7345bbc": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Stone_Sand_Thumb.tex.nasset"
-    },
-    "a26699ac-365a-df1d-b6b3-332ddd88b8ff": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Stone_Coal_01_Thumb.tex.nasset"
-    },
-    "a2de3b8c-ecb7-5c74-1d9e-b37db8ec9b84": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rock_Moss_Thumb.tex.nasset"
-    },
-    "a4a18d3b-dfe6-2001-e4a8-c111adb97b3d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Stone_Silver_01_Thumb.tex.nasset"
     },
     "a5240722-da2f-98c6-7e10-3f69070ff696": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1752,10 +1572,6 @@
     "abf5b2d4-8984-6836-38cd-a2815faae186": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Wood Red.mesh.nasset/Thumbnails/Wood Red.mesh.nasset.tex.nasset"
-    },
-    "ac9c26c7-ae8e-b840-dfe9-3ba99a4e2ac3": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Oven_Thumb.tex.nasset"
     },
     "accd195a-d63f-13b8-a484-1991b6722860": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1817,10 +1633,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Grass 04.mesh.nasset/Thumbnails/Grass 04.mesh.nasset.tex.nasset"
     },
-    "b2391de4-21b8-825e-2b6b-dbc1670cb068": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Stone_Grass_Thumb.tex.nasset"
-    },
     "b24ee611-2222-623e-a7c9-b894079bb11b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1846,10 +1658,6 @@
             "27928335-5e1a-e0af-7342-3819870bce49",
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
-    },
-    "b3bcc1d2-2fe1-27a1-b5fe-0e1d87a3ee0e": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Wheat_Stage_04_Thumb.tex.nasset"
     },
     "b3bdd655-cc27-d212-4cb2-3ecce1010a9e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1896,14 +1704,6 @@
         "dependencies": [
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
-    },
-    "b7c26935-8d34-3276-1c97-02aff4750c2f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Stone_Silver_02_Thumb.tex.nasset"
-    },
-    "b823df6d-b853-96b3-7561-0a7e3b63f499": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Red_Stone_Emerald_02_Thumb.tex.nasset"
     },
     "b8d17921-c6c6-6e69-ca48-68e8aa752103": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2036,14 +1836,6 @@
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
     },
-    "c35ad993-25c7-fdc3-1fce-4d6319c5e8f5": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grass_01_Thumb.tex.nasset"
-    },
-    "c3847e60-0a80-182a-1136-4bef3f67f3e2": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grass_Tan_Thumb.tex.nasset"
-    },
     "c42fc3a5-76d3-c90b-9539-3f1008ff7421": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2082,10 +1874,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Leaves.mesh.nasset/Thumbnails/Leaves.mesh.nasset.tex.nasset"
     },
-    "c87d9558-8138-0d8a-b3a4-da0244efe6e9": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grey_Stone_Ruby_01_Thumb.tex.nasset"
-    },
     "c8c24a9b-46db-86a7-cc22-b0fd7d0825a3": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2100,10 +1888,6 @@
     "c9d891ef-4bf2-6795-feb5-9c47a5491b0c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Red Stone Emerald 01.mesh.nasset/Thumbnails/Red Stone Emerald 01.mesh.nasset.tex.nasset"
-    },
-    "cb00dcf9-fe7d-11cd-045b-36fda4183a10": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Stone_Coal_02_Thumb.tex.nasset"
     },
     "cb9a1e5b-c597-ae2c-d665-2496f42fea8e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2129,10 +1913,6 @@
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
     },
-    "cd2eda5e-d20c-3c52-5a6c-ccad58afbc8b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Trunk_Top_Thumb.tex.nasset"
-    },
     "cdcb23ce-bd7a-5a0f-0ea7-bcb0f2c3ecf1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Track Corner No Rail.mesh.nasset/Thumbnails/Track Corner No Rail.mesh.nasset.tex.nasset"
@@ -2147,10 +1927,6 @@
         "dependencies": [
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
-    },
-    "ce5fff2d-ba04-dc47-a52e-6f75dc663df9": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Trunk_Mid_Thumb.tex.nasset"
     },
     "ce93af28-9174-4a64-51b0-bbceaa27fb08": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2176,14 +1952,6 @@
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
     },
-    "cfdd1fea-4e0f-c352-9729-98c70e1801af": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Cactus_Mid_Thumb.tex.nasset"
-    },
-    "d1f3344e-91de-a5b1-195f-7a102e4177d0": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Glass_Frame_Thumb.tex.nasset"
-    },
     "d235d7ed-d1be-b385-5153-0e73f840d375": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2196,10 +1964,6 @@
             "5c4b81a9-b2b8-4228-4059-5b41236696fa",
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
-    },
-    "d2552823-35a8-8c78-2170-278e1e14cb22": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Mushroom_Brown_Thumb.tex.nasset"
     },
     "d2d79f2c-7d90-7206-cc78-07332d882734": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2275,37 +2039,9 @@
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
     },
-    "d6872bd1-3c1a-396e-acb7-67592c810b22": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Stone_Brown_Iron_02_Thumb.tex.nasset"
-    },
-    "d9039ccb-8571-f275-c442-3963362b4243": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Dirt_Sand_Thumb.tex.nasset"
-    },
     "d9fa4ff1-8968-23db-8e67-77642cb4d88e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Mindkraft_EnviroDiffuse.tex.nasset"
-    },
-    "dbf7378f-333f-1734-3c01-79f57fe9c335": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grey_Stone_Thumb.tex.nasset"
-    },
-    "dc1f2653-2e8f-bd62-1bf0-049dc6eff030": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Stone_Snow_Thumb.tex.nasset"
-    },
-    "dd0981de-16ea-56df-1f51-a34783368b3f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Leaves_Orange_Thumb.tex.nasset"
-    },
-    "dd7892fb-97dd-6e31-8d00-f0b74f610f75": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Grey_Stone_Sand_Thumb.tex.nasset"
-    },
-    "ddeab925-dd44-8ba9-45c1-6f945ed6315d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/White_Trunk_Top_Thumb.tex.nasset"
     },
     "e0db857e-0602-3997-9f7b-0117185bed33": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2333,10 +2069,6 @@
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
     },
-    "e1abbdca-86f4-e661-de2b-16bbd9ea0c7c": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Stone_Diamond_01_Thumb.tex.nasset"
-    },
     "e2cd5ebe-f745-0f92-2289-c65c8fd8486a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2357,14 +2089,6 @@
     "e4ed078b-b883-508e-2b24-ea05c2f3b1d1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Table.mesh.nasset/Thumbnails/Table.mesh.nasset.tex.nasset"
-    },
-    "e7546641-1815-a891-a9a1-ae5d091e5b79": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Cotton_Tan_Thumb.tex.nasset"
-    },
-    "e8427d50-b6b2-1aca-0a1d-521734c6a3c4": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Red_Stone_Emerald_01_Thumb.tex.nasset"
     },
     "e8bcc4ba-5864-8caa-e3e0-db104346d5d5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2440,10 +2164,6 @@
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
     },
-    "f1d550bd-f2f6-9478-c7c3-32d7924acde1": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Wheat_Stage_01_Thumb.tex.nasset"
-    },
     "f219ecab-2683-4910-8f8e-9309bbe2eb9f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Thumbnail/Cubely_Thumb.tex.nasset"
@@ -2460,18 +2180,6 @@
             "edcde835-17b0-eb78-0300-401e6678eebc",
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
-    },
-    "f35f5b32-278b-15d7-11aa-aea54684e484": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Ice_Thumb.tex.nasset"
-    },
-    "f40e3545-1a2a-55a5-4ab3-d1978a53a367": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Mushroom_Red_Thumb.tex.nasset"
-    },
-    "f42a6f0f-eeff-4419-f26d-79d2130ec919": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Glass_Thumb.tex.nasset"
     },
     "f434590d-e2b9-59c1-6237-c3b214721054": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2503,21 +2211,9 @@
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
     },
-    "f6ac6de6-61c5-2061-3eed-6a1ae38a8def": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Cactus_Top_Thumb.tex.nasset"
-    },
     "f6d3dc9b-87dc-9587-4023-0609ef0cce00": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Stone Coal 01.mesh.nasset/Thumbnails/Stone Coal 01.mesh.nasset.tex.nasset"
-    },
-    "f804afaa-c600-e4af-f426-140fc6b09313": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/White_Trunk_Mid_Thumb.tex.nasset"
-    },
-    "f854b674-bf64-abef-b9aa-cf19c360b694": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Track_Corner_No_Rail_Thumb.tex.nasset"
     },
     "f8c3751d-8d9f-85f3-5552-04e71186f28c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2564,10 +2260,6 @@
             "828df399-6361-80f9-1043-8e7455541e1e",
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
-    },
-    "f9ef3099-87d7-ec88-b045-cc380dbe6671": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Water_Thumb.tex.nasset"
     },
     "fc17e9d2-bc9e-9339-a3b9-4d6edbda7445": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
