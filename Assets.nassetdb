@@ -516,7 +516,8 @@
     },
     "34c7473c-9273-438e-b007-f96d8b1f7d35": {
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
-        "path": "Package.nplugin"
+        "path": "Package.nplugin",
+        "name": "Cubely Assets"
     },
     "3648256a-0e5a-07aa-7d6c-f8acee8244f4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1743,6 +1744,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Grass Tan.mesh.nasset/Thumbnails/Grass Tan.mesh.nasset.tex.nasset"
     },
+    "bc9ce489-be86-decf-ff19-07b73c43c430": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Default_SkyboxDiffuse.tex.nasset"
+    },
     "bdea3b0d-391e-3aae-e894-8b200a685978": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2163,6 +2168,10 @@
             "d2d79f2c-7d90-7206-cc78-07332d882734",
             "27691d67-0235-8a08-129c-9ba3429db86c"
         ]
+    },
+    "f181439f-6b08-90da-66d4-d3f24a13903b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Default_SkyboxSpecular.tex.nasset"
     },
     "f219ecab-2683-4910-8f8e-9309bbe2eb9f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
