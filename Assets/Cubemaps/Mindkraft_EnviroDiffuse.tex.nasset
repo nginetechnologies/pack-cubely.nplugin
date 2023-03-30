@@ -2,8 +2,7 @@
     "guid": "d9fa4ff1-8968-23db-8e67-77642cb4d88e",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        32.0,
-        32.0
+        32
     ],
     "preset": 9,
     "usage_flags": 7,
