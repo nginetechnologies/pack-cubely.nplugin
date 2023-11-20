@@ -5,8 +5,9 @@
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "dependencies": [
+        "27691d67-0235-8a08-129c-9ba3429db86c",
         "c11ad52b-5e4f-1717-a298-755165efc3a0",
-        "27691d67-0235-8a08-129c-9ba3429db86c"
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "f63f942e-7530-8e74-0d50-ad3e523bc42a",
