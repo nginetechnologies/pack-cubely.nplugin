@@ -71,16 +71,20 @@
             "8c4d6a47-7c1f-f9f2-c14a-451b5d0e87dc",
             "9b896f26-c6d5-8f8c-6e8c-0438dcb64c24",
             "a5240722-da2f-98c6-7e10-3f69070ff696",
+            "14ea104c-0fc0-f07a-179a-afb0918bc018",
+            "d372091f-9a19-0f71-c57e-b8a382d0fc36",
+            "ed3b8a54-952d-0b45-3dd0-163f373f2cfe",
+            "9e634261-850a-9860-d469-994eae5b2652",
+            "b4d156ee-a4da-a4d7-cb08-098a98314123",
+            "2cbc8ca6-ee0a-9af8-49fe-453e76dbfcd3",
+            "426e0637-5ec9-82ce-e1ed-687368fb4bf1",
+            "69700217-eab3-ab32-a2b2-4e869755779e",
             "93a226c0-1f37-2b2b-996d-0d51e0a6b5e5",
             "6e9468a2-f4e4-b402-cb42-1c26b18984f5",
             "046889c5-6d56-42df-9844-b48797540734",
             "0c54dc56-e89d-9f66-92b9-ecd3e3184f87",
             "f298ede4-c29c-e91a-94c7-2b33b6436c0d",
-            "14ea104c-0fc0-f07a-179a-afb0918bc018",
             "e0db857e-0602-3997-9f7b-0117185bed33",
-            "d372091f-9a19-0f71-c57e-b8a382d0fc36",
-            "ed3b8a54-952d-0b45-3dd0-163f373f2cfe",
-            "9e634261-850a-9860-d469-994eae5b2652",
             "8279c5f4-2968-422d-03d3-17b5ee698486",
             "47caf321-c729-cbad-2b45-0303c51a423d",
             "14af74ea-d49c-eede-4b9a-f2ef016e5354",
@@ -94,7 +98,6 @@
             "d393b154-c39e-93d9-9b51-83b979965268",
             "7663ce21-9796-a48e-8360-006dfc9b5a20",
             "d235d7ed-d1be-b385-5153-0e73f840d375",
-            "b4d156ee-a4da-a4d7-cb08-098a98314123",
             "ae4cafa7-0bff-e3bc-db13-2fbc65472e02",
             "126886b3-398b-022e-fd04-99344585f9ef",
             "76c5ae38-ed1a-a74b-926d-363bffbb3fc8",
@@ -104,19 +107,16 @@
             "f0856b9d-e154-2d26-bfe4-b9dbe81207ff",
             "ce93af28-9174-4a64-51b0-bbceaa27fb08",
             "4a75c409-ec11-a176-34ce-f196b2544d87",
-            "2cbc8ca6-ee0a-9af8-49fe-453e76dbfcd3",
             "9f03b589-7dab-c156-9aa0-fd92a58d46fa",
             "c2da0e2e-1edb-894e-72fb-30823ebf3688",
             "1386eda9-dffa-beb3-7e1a-6798f30b5c27",
             "430473ac-0713-f740-94f3-b5b16ec62e90",
             "526aa9f5-b16f-c96c-94c3-98cd83802740",
             "000e4c15-67bc-31c3-973f-f616a82e8a2f",
-            "426e0637-5ec9-82ce-e1ed-687368fb4bf1",
             "22637336-ec82-5f20-067f-6eb66cca1d13",
             "57119a2a-83fb-6d02-901a-ecac4a230254",
             "4f80a301-0ef3-32af-82e9-dd31d6859f9b",
             "62fc77d7-eb5c-77a8-8f5f-07de1b8a7316",
-            "69700217-eab3-ab32-a2b2-4e869755779e",
             "a7107e90-3b2e-98bc-429b-68ed4ae7b4df",
             "1f95edbe-a7b5-dd05-1cb9-805fcce02ebd",
             "aeb804ac-d3eb-061a-f32d-6dab3060a9c9",
@@ -224,7 +224,7 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/M_Skybox.mtli.nasset",
-        "thumbnail": "1e71738a-10e5-7160-578f-434ede5c7576"
+        "thumbnail": "40920234-a1ee-4362-91cd-e5084e24f0d4"
     },
     "0aa1ff30-de7d-6b19-624d-e17643551949": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -755,6 +755,10 @@
             "27691d67-0235-8a08-129c-9ba3429db86c",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "40920234-a1ee-4362-91cd-e5084e24f0d4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnails/Cubely Skybox.mtli.nasset.tex.nasset"
     },
     "413c89a4-176e-8599-ca95-ee87b112666a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1734,10 +1738,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "a6e8b812-86ee-20ce-4d85-fe4a3ec07690": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Default_Skybox.tex.nasset"
-    },
     "a7107e90-3b2e-98bc-429b-68ed4ae7b4df": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1946,9 +1946,17 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cubely.scene.nasset/Grass Tan.mesh.nasset/Thumbnails/Grass Tan.mesh.nasset.tex.nasset"
     },
-    "bc9ce489-be86-decf-ff19-07b73c43c430": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Default_SkyboxDiffuse.tex.nasset"
+    "bcaa196b-b813-4ac4-b2e3-96f8abf8fabe": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Danny 2D.scene.nasset",
+        "thumbnail": "7cbcf053-014d-f7c5-94f6-17dc5aba705c",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786"
+        ]
     },
     "bdea3b0d-391e-3aae-e894-8b200a685978": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2401,10 +2409,6 @@
             "d2d79f2c-7d90-7206-cc78-07332d882734",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "f181439f-6b08-90da-66d4-d3f24a13903b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Default_SkyboxSpecular.tex.nasset"
     },
     "f219ecab-2683-4910-8f8e-9309bbe2eb9f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
